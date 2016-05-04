@@ -1,0 +1,28 @@
+name: dvL-den
+favicon: null
+layout_spectrum: 0.7518540625460446
+typography_spectrum: 0.03196281939744949
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.29968866473063827
+  lightness: 0.28638295526616275
+  saturation: 0.45891133858822286
+  rhythmicContrast: 0.19149132375605404
+purpose: []
