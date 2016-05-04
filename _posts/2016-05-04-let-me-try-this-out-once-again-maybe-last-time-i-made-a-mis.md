@@ -5,10 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Let me try this out once again. Maybe last time I made a mistake.
-datePublished: '2016-05-04T05:59:00.721Z'
-dateModified: '2016-05-04T05:57:51.965Z'
+datePublished: '2016-05-04T06:00:48.614Z'
+dateModified: '2016-05-04T05:59:09.628Z'
 title: ''
-author: []
+author:
+  - name: dvL-den
+    url: ''
+sourcePath: _posts/2016-05-04-let-me-try-this-out-once-again-maybe-last-time-i-made-a-mis.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +20,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-04-let-me-try-this-out-once-again-maybe-last-time-i-made-a-mis.md
-published: true
 url: let-me-try-this-out-once-again-maybe-last-time-i-made-a-mis/index.html
 _type: Article
 
